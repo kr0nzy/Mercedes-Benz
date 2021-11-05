@@ -1,0 +1,109 @@
+            body,
+            html {
+                height: 100%;
+                background-color: darkgrey;
+            }
+            
+            .bg {
+                background-image: url(kronzy.jpg);
+                height: 100%;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+            
+            .new {
+                background-image: url(jaunsamg.jpg);
+                height: 80%;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+            
+            .used {
+                background-image: url(lietotsamg.jpg);
+                height: 80%;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+            
+            .team {
+                background-image: url(komanda.jpg);
+                height: 80%;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+            }
+            
+            .contact {
+                background-image: url(kontakti.jpg);
+                height: 80%;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover
+            }
+            
+            .service {
+                background-image: url(serviss.jpg);
+                height: 80%;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover
+            }
+            
+            .test {
+                background-image: url(testdrive.jpg);
+                height: 80%;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover
+            }
+            
+            .flex-container {
+                background-color: darkgrey;
+                justify-content: flex-start;
+                margin: 10px;
+                padding: 20px;
+                font-size: 15px;
+                margin: 10px;
+            }
+            
+            .topnav {
+                overflow: hidden;
+                background-color: #e9e9e9;
+            }
+            
+            .topnav a {
+                float: left;
+                display: block;
+                color: black;
+                text-align: justify;
+                padding: 15px 20px;
+                text-decoration: none;
+                font-size: 30px;
+            }
+            
+            .topnav a:hover {
+                background-color: #ddd;
+                color: black;
+            }
+            
+            h2 {
+                color: rgb(40, 41, 40);
+            }
+            
+            table,
+            th,
+            td {
+                border: 1px solid black
+            }
+            
+            .Komanda {
+                background-color: darkgrey;
+                text-align: justify;
+                margin: 10px;
+                padding: 20px;
+                font-size: 15px;
+                margin: 10px;
+            }
